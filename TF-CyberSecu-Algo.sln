@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.ExoTablea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.ExoTableauInverser", "TF-CyberSecu-Algo.ExoTableauInverser\TF-CyberSecu-Algo.ExoTableauInverser.csproj", "{8B785A44-728A-440F-B7F2-E99DB110824B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.ExoTableauTri", "TF-CyberSecu-Algo.ExoTableauTri\TF-CyberSecu-Algo.ExoTableauTri.csproj", "{EBFC5B29-796B-4628-BF49-DF33B30A1DC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8B785A44-728A-440F-B7F2-E99DB110824B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B785A44-728A-440F-B7F2-E99DB110824B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B785A44-728A-440F-B7F2-E99DB110824B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFC5B29-796B-4628-BF49-DF33B30A1DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFC5B29-796B-4628-BF49-DF33B30A1DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFC5B29-796B-4628-BF49-DF33B30A1DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFC5B29-796B-4628-BF49-DF33B30A1DC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
