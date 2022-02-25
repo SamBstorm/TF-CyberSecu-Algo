@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.ExoTablea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Aglo.ExoTableauRecherche", "TF-CyberSecu-Aglo.ExoTableauRecherche\TF-CyberSecu-Aglo.ExoTableauRecherche.csproj", "{97108F4E-38C9-4F0A-BC6D-84DC6F12CF22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.ExoTableauPlusPetit", "TF-CyberSecu-Algo.ExoTableauPlusPetit\TF-CyberSecu-Algo.ExoTableauPlusPetit.csproj", "{3FEF6236-B152-47B3-8549-E579C9733DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{97108F4E-38C9-4F0A-BC6D-84DC6F12CF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97108F4E-38C9-4F0A-BC6D-84DC6F12CF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97108F4E-38C9-4F0A-BC6D-84DC6F12CF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEF6236-B152-47B3-8549-E579C9733DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEF6236-B152-47B3-8549-E579C9733DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEF6236-B152-47B3-8549-E579C9733DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEF6236-B152-47B3-8549-E579C9733DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
