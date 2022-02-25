@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.ExoTablea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.ExoTableauSuppression", "TF-CyberSecu-Algo.ExoTableauSuppression\TF-CyberSecu-Algo.ExoTableauSuppression.csproj", "{6FDAC245-9F26-4FA3-AB54-3B0D65F2B7C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.DemoSousProgVarGlobal", "TF-CyberSecu-Algo.DemoSousProgVarGlobal\TF-CyberSecu-Algo.DemoSousProgVarGlobal.csproj", "{5F974F76-248D-47DB-AF29-B52DBA544EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF-CyberSecu-Algo.DemoTableauRef", "TF-CyberSecu-Algo.DemoTableauRef\TF-CyberSecu-Algo.DemoTableauRef.csproj", "{353FA7DE-DD06-49B4-BEB4-185BA25FCCB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{6FDAC245-9F26-4FA3-AB54-3B0D65F2B7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FDAC245-9F26-4FA3-AB54-3B0D65F2B7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FDAC245-9F26-4FA3-AB54-3B0D65F2B7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F974F76-248D-47DB-AF29-B52DBA544EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F974F76-248D-47DB-AF29-B52DBA544EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F974F76-248D-47DB-AF29-B52DBA544EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F974F76-248D-47DB-AF29-B52DBA544EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353FA7DE-DD06-49B4-BEB4-185BA25FCCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353FA7DE-DD06-49B4-BEB4-185BA25FCCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353FA7DE-DD06-49B4-BEB4-185BA25FCCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353FA7DE-DD06-49B4-BEB4-185BA25FCCB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
